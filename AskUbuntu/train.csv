@@ -1,0 +1,53 @@
+How to record my screen?	None	Ekranımı nasıl kaydederim?
+How can I highlight or annotate PDFs?	None	PDF'leri nasıl vurgulayabilir veya not ekleyebilirim?
+Is it worth upgrading from 12.04 LTS to 13.04	Make Update	12.04 LTS'den 13.04'e yükseltmeye değer mi
+Upgrade to 12.04 64 bit	Make Update	12.04 64 bit'e yükseltin
+How to upgrade Ubuntu 14.04.1 to 14.04.2?	Make Update	Ubuntu 14.04.1'i 14.04.2'ye nasıl yükseltebilirim?
+Upgrading from Ubuntu 14.04 to 15.04	Make Update	Ubuntu 14.04'ten 15.04'e yükseltme
+how to upgrade from ubuntu 15.04 to 15.10?	Make Update	ubuntu 15.04'ten 15.10'a nasıl yükseltilir?
+Upgrade 12.04 to 12.10 using startup disk	Make Update	Başlangıç ​​diskini kullanarak 12.04'ten 12.10'a yükseltin
+How to Upgrade from 11.10 to 12.04 when you've got a problem?	Make Update	Bir sorun yaşadığınızda 11.10'dan 12.04'e Nasıl Yükseltilir?
+Update 11.04 to 12.04 with LiveCD	Make Update	LiveCD ile 11.04'ten 12.04'e güncelleyin
+How to upgrade Ubuntu 9.10 to 12.10 via terminal?	Make Update	Ubuntu 9.10'u terminal üzerinden 12.10'a nasıl yükseltebilirim?
+How to upgrade from Ubuntu 10.10 to 11.04?	Make Update	Ubuntu 10.10'dan 11.04'e nasıl yükseltilir?
+No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020	Setup Printer	Ne yaparsam yapayım Ubuntu 15.04, HP LaserJet 1020'yi tanımıyor
+How to setup HP printer/scanner on ubuntu?	Setup Printer	Ubuntu'da HP yazıcı / tarayıcı nasıl kurulur?
+How do I setup my HP C4140 printer wirelessly?	Setup Printer	HP C4140 yazıcımı kablosuz olarak nasıl kurarım?
+How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?	Setup Printer	Ubuntu Sunucu 12.10'da usb aracılığıyla bağlanan bir yazıcıdan kablosuz yazdırma nasıl kurulur?
+How can I install a Pantum 2502W laser printer on Ubuntu	Setup Printer	Ubuntu'ya nasıl Pantum 2502W lazer yazıcı kurabilirim
+Install Canon MP560 Ubuntu 15.04	Setup Printer	Canon MP560 Ubuntu 15.04'ü yükleyin
+How to install a Brother MFC-5890CN network printer?	Setup Printer	Brother MFC-5890CN ağ yazıcısı nasıl kurulur?
+How do I install drivers for a Konica Minolta 200?	Setup Printer	Konica Minolta 200 için sürücüleri nasıl kurarım?
+How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?	Setup Printer	Panasonic MB1900CX Hepsi Bir Arada Yazıcı / Tarayıcı için sürücüleri nasıl kurarım?
+How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work	Setup Printer	Canon LBP2900B yazıcısı 14.04 LTS'ye Nasıl Kurulur? LBP2900 yöntemini denedim ama işe yaramadı
+Any command line calculator for Ubuntu?	Software Recommendation	Ubuntu için herhangi bir komut satırı hesaplayıcısı var mı?
+Extracting embedded images from a PDF	Software Recommendation	Gömülü görüntüleri bir PDF'den çıkarma
+What to use to quickly cut Audio/Video	Software Recommendation	Ses / Videoyu hızlı bir şekilde kesmek için ne kullanılmalı
+Torrent client for the command-line?	None	Komut satırı için Torrent istemcisi?
+MySQL GUI Tools	Software Recommendation	MySQL GUI Araçları
+What developer text editors are available for Ubuntu?	Software Recommendation	Ubuntu için hangi geliştirici metin düzenleyicileri mevcut?
+What screenshot tools are available?	Software Recommendation	Hangi ekran görüntüsü araçları mevcut?
+Which programs can I use to edit PDF files?	Software Recommendation	PDF dosyalarını düzenlemek için hangi programları kullanabilirim?
+Is there a lightweight tool to crop images quickly?	Software Recommendation	Görüntüleri hızlıca kırpmak için hafif bir araç var mı?
+What IRC clients are available?	Software Recommendation	Hangi IRC istemcileri mevcuttur?
+What new games are available for Ubuntu in 2011?	Software Recommendation	2011'de Ubuntu için hangi yeni oyunlar mevcut?
+UPNP / DLNA (client) player recommendations?	Software Recommendation	UPNP / DLNA (istemci) oynatıcı önerileri?
+What scientific plotting software is available?	Software Recommendation	Hangi bilimsel çizim yazılımı mevcut?
+Can you recommend a password generator?	Software Recommendation	Bir şifre oluşturucu tavsiye edebilir misiniz?
+What tools do you use to monitor a web server?	Software Recommendation	Bir web sunucusunu izlemek için hangi araçları kullanıyorsunuz?
+What is a good MongoDB GUI client?	Software Recommendation	İyi bir MongoDB GUI istemcisi nedir?
+Password Management Applications?	Software Recommendation	Parola Yönetimi Uygulamaları?
+Is there an application for reading mobi files?	Software Recommendation	Mobi dosyalarını okumak için bir uygulama var mı?
+shut down without extra question	Shutdown Computer	ekstra soru olmadan kapat
+How to shutdown computer when users are logged on?	Shutdown Computer	Kullanıcılar oturum açtığında bilgisayar nasıl kapatılır?
+What is the proper terminal-way to shutdown?	Shutdown Computer	Kapatma için uygun terminal yolu nedir?
+How can I automatically shutdown the system after a specific time?	Shutdown Computer	Belirli bir süre sonra sistemi nasıl otomatik olarak kapatabilirim?
+Hotkey to shut down from login screen?	Shutdown Computer	Giriş ekranından kapatmak için kısayol tuşu?
+How to shutdown the computer after Xsession ends?	Shutdown Computer	Xsession sona erdikten sonra bilgisayar nasıl kapatılır?
+How can one shutdown a PC using the keyboard?	Shutdown Computer	Klavyeyi kullanarak bir PC nasıl kapatılabilir?
+How can I enable shutdown verbosity?	Shutdown Computer	Kapatma ayrıntı düzeyini nasıl etkinleştirebilirim?
+Are there any Keyboard Shortcuts to Shutdown?	Shutdown Computer	Kapatılacak Klavye Kısayolları var mı?
+Shutdown after a certain time	Shutdown Computer	Belirli bir süre sonra kapatma
+Shutdown problem in Ubuntu 16.04	Shutdown Computer	Ubuntu 16.04'te kapatma sorunu
+How do I fix a shutdown problem?	Shutdown Computer	Kapatma sorununu nasıl düzeltirim?
+What graphical utility can I use for Ubuntu auto shutdown?	Shutdown Computer	Ubuntu otomatik kapanması için hangi grafik yardımcı programını kullanabilirim?

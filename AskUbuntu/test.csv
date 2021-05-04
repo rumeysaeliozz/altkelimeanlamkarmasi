@@ -1,0 +1,109 @@
+What software can I use to view epub documents?	Software Recommendation	Epub belgelerini görüntülemek için hangi yazılımı kullanabilirim?
+Which PDF Viewer would you recommend?	Software Recommendation	Hangi PDF Görüntüleyiciyi önerirsiniz?
+What IDEs are available for Ubuntu?	Software Recommendation	Ubuntu için hangi IDE'ler mevcut?
+What's the best Mind Mapping Software?	Software Recommendation	En iyi Zihin Haritalama Yazılımı nedir?
+Software to read a QR code?	Software Recommendation	QR kodunu okumak için bir yazılım?
+PDF to word conversion software?	Software Recommendation	PDF'den kelimeye dönüştürme yazılımı?
+Is there software that can view .dwg files?	Software Recommendation	.Dwg dosyalarını görüntüleyebilen yazılım var mı?
+What are some good PHP editors?	Software Recommendation	Bazı iyi PHP editörleri nelerdir?
+Is there a software utility to adjust screen gamma/brightness/contrast?	Software Recommendation	Ekran gamasını / parlaklığını / kontrastını ayarlamak için bir yazılım yardımcı programı var mı?
+Please recommend a hex editor for shell	Software Recommendation	Lütfen kabuk için bir onaltılık düzenleyici önerin
+Is there LAN topology mapping software available in Ubuntu?	Software Recommendation	Ubuntu'da LAN topolojisi haritalama yazılımı var mı?
+Is there a tool like wifi analyzer for ubuntu?	Software Recommendation	Ubuntu için wifi analizörü gibi bir araç var mı?
+Tool for recovering deleted data from a flash drive	Software Recommendation	Bir flash sürücüden silinen verileri kurtarmak için bir araç
+What's a simple "colour picker" app for GNOME?	Software Recommendation	GNOME için basit bir "renk seçici" uygulaması nedir?
+Any app that tells me to take regular breaks from working?	Software Recommendation	Çalışmaktan düzenli olarak ara vermemi söyleyen herhangi bir uygulama var mı?
+What are some good ASCII art generators?	Software Recommendation	Bazı iyi ASCII sanat üreteçleri nelerdir?
+What are some good GUI binary viewers/editors?	Software Recommendation	Bazı iyi GUI ikili görüntüleyicileri / düzenleyicileri nelerdir?
+Which is the best PDF metadata viewer for Ubuntu?	Software Recommendation	Ubuntu için en iyi PDF meta veri görüntüleyici hangisi?
+Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)	Software Recommendation	Uygun bir açılır ağaç görünümüne sahip bir Linux dosya yöneticisi var mı? (OS X'teki bulucu gibi)
+Which application do you recommend for watching TV (DVB)?	Software Recommendation	TV (DVB) izlemek için hangi uygulamayı önerirsiniz?
+What Is The Best HDR Software?	Software Recommendation	En İyi HDR Yazılımı Nedir?
+What do you use to edit Microsoft Word documents (docx)?	Software Recommendation	Microsoft Word belgelerini (docx) düzenlemek için ne kullanıyorsunuz?
+What's the best Wireframing tool?	Software Recommendation	En iyi Wireframing aracı nedir?
+Is there any software that will do face recognition in photos?	Software Recommendation	Fotoğraflarda yüz tanıma yapacak bir yazılım var mı?
+Applications to replace iTunes for iPod synchronization?	Software Recommendation	İPod senkronizasyonu için iTunes'un yerini alacak uygulamalar?
+Is there an SSH connection manager?	Software Recommendation	SSH bağlantı yöneticisi var mı?
+A light alternative to gnome-system-monitor?	Software Recommendation	Gnome-system-monitor'a hafif bir alternatif mi?
+Software to create a video slideshow?	Software Recommendation	Video slayt gösterisi oluşturmak için yazılım mı?
+Is there a project management software for Ubuntu like Microsoft Project?	Software Recommendation	Ubuntu için Microsoft Project gibi bir proje yönetim yazılımı var mı?
+Is there any recovery software available for ext4?	Software Recommendation	Ext4 için herhangi bir kurtarma yazılımı var mı?
+What blog editor software are available?	Software Recommendation	Hangi blog düzenleyici yazılımı mevcut?
+Can you recommend a good modern GUI download manager (wget wrapper?)	Software Recommendation	İyi bir modern GUI indirme yöneticisi (wget sarmalayıcı) tavsiye edebilir misiniz?
+Is there any program for fuzzy string matching which provides a match score?	Software Recommendation	Bir eşleşme puanı sağlayan bulanık dizge eşleştirmesi için herhangi bir program var mı?
+Are there any hardware diagnostic tools?	Software Recommendation	Herhangi bir donanım tanılama aracı var mı?
+Recommendation for Regex editor?	Software Recommendation	Regex düzenleyici için öneri?
+Is there a Document scanning and archiving software?	None	Belge tarama ve arşivleme yazılımı var mı?
+Keyboard shortcut to shutdown?	Shutdown Computer	Kapatmak için klavye kısayolu?
+My system doesn't go shutdown	Shutdown Computer	Sistemim kapanmıyor
+How to troubleshoot slow shutdown?	Shutdown Computer	Yavaş kapatma sorunu nasıl giderilir?
+How can I shutdown the computer when a certain process ends?	Shutdown Computer	Belirli bir işlem bittiğinde bilgisayarı nasıl kapatabilirim?
+Ubuntu Shut down app	Shutdown Computer	Ubuntu Uygulamayı kapat
+What does my computer do when I click 'Shut Down'?	Shutdown Computer	Kapat ı tıkladığımda bilgisayarım ne yapar?
+How do I shut down without the confirmation prompt?	Shutdown Computer	Onay istemi olmadan nasıl kapatırım?
+No action when shutdown pressed	Shutdown Computer	Kapatma düğmesine basıldığında eylem yok
+what is the right way to shutdown ubuntu using the command line?	Shutdown Computer	ubuntu'yu komut satırını kullanarak kapatmanın doğru yolu nedir?
+How can I make shutdown not require admin password?	Shutdown Computer	Yönetici şifresi gerektirmeden kapatmayı nasıl yapabilirim?
+shutdown in specific way if no-one uses computer	Shutdown Computer	kimse bilgisayar kullanmıyorsa belirli bir şekilde kapatma
+What is the command to open the shutdown dialog?	Shutdown Computer	Kapatma iletişim kutusunu açma komutu nedir?
+How to Shut down Ubuntu by using keyboard?	Shutdown Computer	Klavye kullanarak Ubuntu nasıl kapatılır?
+shutdown 5:30pm every day	Shutdown Computer	her gün 17:30 kapanma
+Upgrading from 11.10 to 12.04	Make Update	11.10'dan 12.04'e yükseltme
+How do I upgrade to the release version of 16.04 if I am running Beta?	Make Update	Beta çalıştırıyorsam 16.04 yayın sürümüne nasıl yükseltebilirim?
+Doubts regarding the 15.04 upgrade (is it inevitable and unavoidable?)	Make Update	15.04 yükseltmesiyle ilgili şüpheler (kaçınılmaz ve kaçınılmaz mı?)
+Is any offline upgrade from 13.10 to 14.04 possible?	Make Update	13.10'dan 14.04'e herhangi bir çevrimdışı yükseltme mümkün mü?
+Upgrading from ubuntu 12.04 to 13.10	Make Update	Ubuntu 12.04'ten 13.10'a yükseltme
+Ubuntu upgrade failed	Make Update	Ubuntu yükseltmesi başarısız oldu
+Upgrading from 12.04 to 13.10 ( Unanswered questions )	Make Update	12.04'ten 13.10'a yükseltme (Cevaplanmamış sorular)
+upgrading to Ubuntu 13.10 from Ubuntu 13.04	Make Update	Ubuntu 13.04'ten Ubuntu 13.10'a yükseltme
+Is it recommended to upgrade to Lubuntu 15.04?	Software Recommendation	Lubuntu 15.04'e yükseltmeniz önerilir mi?
+Force upgrade 12.10 to 13.04	Make Update	12.10'u 13.04'e yükseltmeye zorla
+How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?	Make Update	Ubuntu 11.10'u Ubuntu 11.04'ten kısmen nasıl yükseltebilirim?
+Problem upgrading Ubuntu 9.10	Make Update	Ubuntu 9.10'u yükseltme sorunu
+Is it necessary to upgrade to 15.10 from 14.04?	Make Update	14.04'ten 15.10'a yükseltmek gerekli midir?
+How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?	Make Update	Xubuntu 11.10'u Xubuntu 12.04 LTS'ye nasıl güncellerim?
+Why did the upgrade from 11.10 to 12.04 ruin my system?	Make Update	11.10'dan 12.04'e yükseltme neden sistemimi mahvetti?
+Problems upgrading from 12.04 to 14.04	Make Update	12.04'ten 14.04'e yükseltme sorunları
+Problems upgrading Ubuntu 12.10 to 13.04	Make Update	Ubuntu 12.10'u 13.04'e yükseltme sorunları
+Upgrade from 12.04 to 12.10 without losing files?	Make Update	Dosyaları kaybetmeden 12.04'ten 12.10'a yükseltin mi?
+On really old Ubuntu 6.06 - How to upgrade	Software Recommendation	Gerçekten eski Ubuntu 6.06'da - Nasıl yükseltilir
+Do I need to uninstall 10.04 to upgrade to 12.04?	Make Update	12.04'e yükseltmek için 10.04'ü kaldırmam gerekir mi?
+Do I need to reinstall everything to upgrade from 13.10 to 14.10?	Make Update	13.10'dan 14.10'a yükseltmek için her şeyi yeniden yüklemem gerekir mi?
+update-manager: upgrade to 15.04 rather than 16.04	Make Update	güncelleme yöneticisi: 16.04 yerine 15.04'e yükseltin
+Upgrading 16.04 to 16.04.1	Make Update	16.04'ü 16.04.1'e yükseltme
+Upgrading Ubuntu Server 9.10 to 10.04	Make Update	Ubuntu Sunucusunu 9.10'dan 10.04'e yükseltme
+Ho do I update to 13.04 from the beta?	Make Update	Beta sürümünden 13.04'e nasıl güncelleme yapabilirim?
+How to upgrade from 12.10 to 14.04	Make Update	12.10'dan 14.04'e nasıl yükseltilir
+Upgrading from 10.10 to 11.04 how much space is needed?	Make Update	10.10'dan 11.04'e yükseltme ne kadar alan gerekir?
+Do I need to backup my 12.04 system to upgrade to 12.04.1?	Make Update	12.04.1'e yükseltmek için 12.04 sistemimi yedeklemem gerekir mi?
+Cannot upgrade from 12.04LTS to 14.04	Make Update	12.04LTS'den 14.04'e yükseltilemiyor
+Upgrade 10.10 to 11.04	Make Update	10.10'u 11.04'e yükseltin
+How to upgrade from 14.04 LTS or 15.10 to 16.04 from terminal	Make Update	14.04 LTS veya 15.10'dan 16.04'e terminalden nasıl yükseltilir
+How to upgrade from 16.04 LTS to 16.04.1 LTS	Make Update	16.04 LTS'den 16.04.1 LTS'ye nasıl yükseltilir
+Upgrading from 10.04 to 11.10	Make Update	10.04'ten 11.10'a yükseltme
+How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly?	Make Update	14.04 Beta'dan Ubuntu 14.04 final'e nasıl doğru bir şekilde yükseltebilirim?
+Is there an upgrade procedure from 12.04 LTS to 14.04 LTS	Make Update	12.04 LTS'den 14.04 LTS'ye yükseltme prosedürü var mı
+Upgrade from 9.10 to 11.04	Make Update	9.10'dan 11.04'e yükseltme
+How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?	Make Update	Windows 7 ile ikili önyüklemem varsa Ubuntu 12.04'ü 14.04'e nasıl yükseltebilirim?
+Wubi Device /dev/loop0 full. How to get more space?	Software Recommendation	Wubi Cihazı / dev / loop0 dolu. Daha fazla alan nasıl elde edilir?
+Using 12.04 can I compile packages with gcc for 10.04?	Make Update	12.04 kullanarak 10.04 için gcc ile paketleri derleyebilir miyim?
+Removing Recently used items in 12.04	Software Recommendation	Son kullanılan öğeleri 12.04'te kaldırma
+Upgrading From 11.04 (32bit) to 12.04 (64bit)	Make Update	11.04'ten (32bit) 12.04'e (64bit) Yükseltme
+How is rm command different from the delete button?	None	Rm komutunun sil düğmesinden farkı nedir?
+In Unity how do I see the details of a given launcher?	Software Recommendation	Unity'de belirli bir başlatıcının ayrıntılarını nasıl görebilirim?
+How to provide user permission to read and write on /dev/sdax? What is the syntax?	None	Kullanıcılara / dev / sdax üzerinde okuma ve yazma izni nasıl sağlanır? Sözdizimi nedir?
+Security enhancements prevent mounting /dev/sdb1	None	Güvenlik geliştirmeleri / dev / sdb1'in bağlanmasını engeller
+How do I show grub when resuming from suspend?	None	Askıya alma durumundan devam ederken grubunu nasıl gösteririm?
+How to install a Lexmark z600 series printer?	Setup Printer	Lexmark z600 serisi yazıcı nasıl kurulur?
+Cannot setup HP All in one DJ3630	Setup Printer	HP All in one DJ3630 kurulamıyor
+How to add a network printer on Ubuntu 15.10?	Setup Printer	Ubuntu 15.10'a ağ yazıcısı nasıl eklenir?
+Cannot install printer driver epson l210	Setup Printer	Yazıcı sürücüsü epson l210 yüklenemiyor
+How do I install Dell 2150cdn printer	Setup Printer	Dell 2150cdn yazıcıyı nasıl kurarım
+Installing Epson XP-424 wireless printer	Setup Printer	Epson XP-424 kablosuz yazıcının kurulması
+Installing EPSON L355 on Ubuntu 14.04	Setup Printer	EPSON L355'i Ubuntu 14.04'e yükleme
+How do I install the HP F4280 printer?	Setup Printer	HP F4280 yazıcıyı nasıl kurarım?
+How to Install Brother DCP-8110DN Laser Printer on Ubuntu?	Setup Printer	Brother DCP-8110DN Lazer Yazıcı Ubuntu'ya Nasıl Kurulur?
+How to Install a Canon MF8040Cn Printer on Ubuntu 12.04	Setup Printer	Ubuntu 12.04'e Canon MF8040Cn Yazıcı Nasıl Kurulur
+How Do I Install Canon MF8000C Printer in Ubuntu 15.10?	Setup Printer	Canon MF8000C Yazıcıyı Ubuntu 15.10'a Nasıl Kurarım?
+How to install Canon LBP330 in Lts 16.04	Setup Printer	Canon LBP330, Lts 16.04'te nasıl kurulur
+Install printer Lexmark X4690 (ubuntu 12.04)	Setup Printer	Yazıcı Lexmark X4690'ı yükleyin (ubuntu 12.04)

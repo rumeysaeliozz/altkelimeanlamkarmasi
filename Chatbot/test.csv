@@ -1,0 +1,106 @@
+i want to go marienplatz	FindConnection	marienplatz'a gitmek istiyorum
+when is the next train in muncher freiheit?	DepartureTime	muncher freiheit'teki bir sonraki tren ne zaman?
+when does the next u-bahn leaves from garching forschungszentrum?	DepartureTime	bir sonraki u-bahn ne zaman garching forschungszentrum'dan ayrılıyor?
+from olympia einkaufszentrum to hauptbahnhof	FindConnection	Olympia einkaufszentrum'dan hauptbahnhof'a
+when is the next train from winterstraße 12 to kieferngarten	FindConnection	winterstraße 12'den kieferngarten'e bir sonraki tren ne zaman
+when is the next rocket from winterstraße 12 to kieferngarte	FindConnection	winterstraße 12'den kieferngarte'ye bir sonraki roket ne zaman
+can you find a connection from garching to hauptbahnhof?	FindConnection	garching'den hauptbahnhof'a bir bağlantı bulabilir misin?
+how to get from untere strassäcker 21 to fröttmaning	FindConnection	untere strassäcker 21'den fröttmaning'e nasıl gidilir
+how i can get from marienplatz to garching	FindConnection	Marienplatz'dan garching'e nasıl gidebilirim
+connection from boltzmannstraße to kieferngarten	FindConnection	Boltzmannstraße'den kieferngarten'e bağlantı
+how to get from bonner platz to freimann?	FindConnection	Bonner Platz'dan Freimann'a Nasıl Gidilir?
+when is the next s-bahn leaving at garching?	DepartureTime	garching'de bir sonraki s-bahn ne zaman kalkıyor?
+how do i get from oez to hbf?	FindConnection	oez'den hbf'ye nasıl geçebilirim?
+how to get from winterstrasse 12 to fröttmaning	FindConnection	winterstrasse 12'den fröttmaning'e nasıl gidilir
+how do i get from garching forschungszentrum to pasing	FindConnection	chungszentrum için garching'den pasing'e nasıl geçebilirim
+theresienstraße to assling	FindConnection	Theresienstraße'den assling'e
+how can i get from theresienstraße to munich east?	FindConnection	theresienstraße'den Münih doğuya nasıl gidebilirim?
+when does the next bus starts from garching?	DepartureTime	bir sonraki otobüs garchingden ne zaman başlıyor?
+from quiddestraße to garching?	FindConnection	Quiddestraße'den garching'e?
+can you find a connection from kurt-eisner-straße to garching forschungszentrum?	FindConnection	kurt-eisner-straße'den garching forschungszentrum'a bir bağlantı bulabilir misiniz?
+can you find a connection from quiddestraße to garching forschungszentrum?	FindConnection	quiddestraße'den garching forschungszentrum'a bir bağlantı bulabilir misiniz?
+when does the next train leaves at garching?	DepartureTime	Garching'de bir sonraki tren ne zaman kalkıyor?
+from hauptbahnhof to garching?	FindConnection	hauptbahnhof'tan garching'e?
+how can i get to glockenbachviertel from garching forschungszentrum?	FindConnection	glockenbachviertel'e garching forschungszentrum'dan nasıl ulaşabilirim?
+how i can get from garching to nordfriedhof	FindConnection	garching'den nordfriedhof'a nasıl gidebilirim
+how can i get to glockenbachviertel from garching forschungszentrum?	FindConnection	glockenbachviertel'e garching forschungszentrum'dan nasıl ulaşabilirim?
+when is the next train leaving in garching forschungszentrum	DepartureTime	Schungszentrum için garching'de bir sonraki tren ne zaman kalkıyor
+how can i get from moosach to quiddestraße?	FindConnection	moosach'tan quiddestraße'ye nasıl gidebilirim?
+how can i get from moosach to poccistraße?	FindConnection	moosach'tan poccistraße'ye nasıl gidebilirim?
+how can i get from kurt-eisner-straße to garching forschungszentrum?	FindConnection	kurt-eisner-straße'den garching forschungszentrum'a nasıl gidebilirim?
+how can i get from moosach to quiddestraße?	FindConnection	moosach'tan quiddestraße'ye nasıl gidebilirim?
+how can i get from moosach to odeonsplatz?	FindConnection	moosach'tan odeonsplatz'a nasıl gidebilirim?
+when does the next bus starts at garching?	DepartureTime	bir sonraki otobüs ne zaman garching'de başlıyor?
+what's the shortest way from quiddestraße to odeonsplatz?	FindConnection	quiddestraße'den odeonsplatz'a en kısa yol nedir?
+when is the next bus from ostbahnhof	DepartureTime	Ostbahnhof'tan bir sonraki otobüs ne zaman
+how i can get from garching to neuperlach sued	FindConnection	garching'den neuperlach'a nasıl dava açabilirim
+when is the next train in munchner freiheit?	DepartureTime	munchner freiheit'teki bir sonraki tren ne zaman?
+how i can get from marienplatz to garching?	FindConnection	marienplatz'dan garching'e nasıl gidebilirim?
+how do i get from poccistraße to laim	FindConnection	poccistraße'den laim'e nasıl giderim
+i want to go garching from marienplatz	FindConnection	Marienplatz'dan gargara gitmek istiyorum
+how i can get from marienplatz to garching?	FindConnection	marienplatz'dan garching'e nasıl gidebilirim?
+how can i get from hauptbahnhof to odeonsplatz	FindConnection	hauptbahnhof'tan odeonsplatz'a nasıl gidebilirim
+prinzregentenplatz to rotkreuzplatz	FindConnection	prinzregentenplatz'dan rotkreuzplatz'a
+i want to go to garching from marienplatz	FindConnection	Marienplatz'dan garching'e gitmek istiyorum
+next train from garching	DepartureTime	garching'den sonraki tren
+from prinzregentenplatz to rotkreuzplatz	FindConnection	prinzregentenplatz'dan rotkreuzplatz'a
+when is the next subway from garching forschungszentrum	DepartureTime	Schungszentrum için garching'den sonraki metro ne zaman
+from garching to klinikum	FindConnection	gargara yapmaktan klinikum'a
+from garching foschungszentrum to odeonsplatz	FindConnection	foschungszentrum'dan odeonsplatz'a kadar
+next bus in garching	DepartureTime	garching'de bir sonraki otobüs
+when does the train leaving in garching forschungszentrum	DepartureTime	Tren ne zaman schungszentrum için garching'de kalkıyor
+next subway from garching forschungszentrum	DepartureTime	garching forschungszentrum'dan sonraki metro
+tell me the next bus from garching	DepartureTime	bana garchingden sonraki otobüsü söyle
+next bus from garching, please.	DepartureTime	Garching'den sonraki otobüs lütfen.
+next bus from garching	DepartureTime	garching'den sonraki otobüs
+next bus from central station	DepartureTime	merkez istasyondan sonraki otobüs
+from garching to marienplatz	FindConnection	garching'den marienplatz'a
+next bus from garching.	DepartureTime	garching'den sonraki otobüs.
+connection from garching to hauptbahnhof?	FindConnection	garching'den hauptbahnhof'a bağlantı?
+when does the next bus departs from garching?	DepartureTime	bir sonraki otobüs garchingden ne zaman kalkıyor?
+find connection from hauptbahnhof to odeonsplatz	FindConnection	hauptbahnhof'tan odeonsplatz'a bağlantı bul
+when does the next u-bahn departs at garching forschungszentrum?	DepartureTime	bir sonraki u-bahn ne zaman garching forschungszentrum'dan kalkıyor?
+when does the next u-bahn departs at garching?	DepartureTime	bir sonraki u-bahn ne zaman garching'de kalkacak?
+when does the next subway departs at garching	DepartureTime	garching'de bir sonraki metro ne zaman kalkıyor
+when is the next train in garching?	DepartureTime	Garching'deki bir sonraki tren ne zaman?
+how to get from münchner freiheit to garching ?	FindConnection	münchner freiheit'ten garching'e nasıl gidilir?
+implerstraße to ostbahnhof	FindConnection	implerstraße'den ostbahnhof'a
+how can i get from hauptbahnhof to odeonsplatz?	FindConnection	hauptbahnhof'tan odeonsplatz'a nasıl gidebilirim?
+how can i go from garching forschungszentrum to prinzregentenplatz	FindConnection	schungszentrum için garching'den prinzregentenplatz'a nasıl gidebilirim
+how can i get from mangfallplatz to garching	FindConnection	mangfallplatz'dan garching'e nasıl gidebilirim
+how can i get to hohenlindenerstraße	FindConnection	hohenlindenerstrasse'ye nasıl gidebilirim
+harthaus to hackerbrücke	FindConnection	hackerbrücke için harthaus
+how can i get from feldmoching to garching forschungszentrum?	FindConnection	Feldmoching'den schungszentrum için garching'e nasıl geçebilirim?
+from marienplatz to petershausen	FindConnection	marienplatz'dan petershausen'e
+when is the train from garching to marienplatz	FindConnection	garching'den marienplatz'a tren ne zaman
+neufahrn to garching	FindConnection	Neufahrn garching
+how can i get from mangfallplatz to garching	FindConnection	mangfallplatz'dan garching'e nasıl gidebilirim
+how can i get to hohenlindenerstr	FindConnection	hohenlindenerstr'a nasıl gidebilirim
+when is the next bus from garching forschungzentrum	DepartureTime	garching forschungzentrum'dan bir sonraki otobüs ne zaman
+how do i get from spitzingplatz to poccistraße?	FindConnection	spitzingplatz'dan poccistraße'ye nasıl giderim?
+how can i get from garching forschungszentrum to marienplatz	FindConnection	schungszentrum için garching'den marienplatz'a nasıl gidebilirim
+how can i get from klinkum to marienplatz?	FindConnection	klinkum'dan marienplatz'a nasıl gidebilirim?
+how to get from alte heide to marienplatz	FindConnection	alte heide'den marienplatz'a nasıl gidilir
+next train from muenchen freicheit	DepartureTime	Muenchen freicheit'ten sonraki tren
+depart in garching, i assume	DepartureTime	sanırım
+when does the next u-bahn depart at garching?	DepartureTime	garching'de bir sonraki u-bahn ne zaman kalkacak?
+the next bus from garching forschungzentrum	DepartureTime	garching forschungzentrum'dan sonraki otobüs
+when is the next train in alte heide?	DepartureTime	alte heide'deki bir sonraki tren ne zaman?
+or depart from garching	DepartureTime	veya gargara yapmaktan ayrılmak
+hello munich city bot! how do i get from münchner freiheit to scheidplatz?	FindConnection	merhaba münih şehir botu! münchner freiheit'ten scheidplatz'a nasıl giderim?
+how can i get from garching forschungszentrum to prinzregentenplatz	FindConnection	Schungszentrum için garching'den prinzregentenplatz'a nasıl gidebilirim
+how can i get from neufahrn to garching	FindConnection	neufahrn'dan garching'e nasıl gidebilirim
+take me to the airport	FindConnection	beni havaalanına götür
+when does the next u6 leave from garching forschungszentrum	DepartureTime	sonraki u6 ne zaman garching forschungszentrum'dan ayrılıyor
+how i can get from munchner freiheit to nordfriedhof?	FindConnection	munchner freiheit'ten nordfriedhof'a nasıl gidebilirim?
+from harthaus to hackerbrücke	FindConnection	Harthaus'tan hackerbrücke'ye
+when is the train from garching	DepartureTime	tren ne zaman garching'den
+what is the next train from münchner freiheit	DepartureTime	münchner freiheit'ten bir sonraki tren nedir
+how can i get from theresienstrasse to garching forschungszentrum	FindConnection	Theresienstrasse'den schungszentrum için garching'e nasıl gidebilirim
+how can i get from münchner freiheit to odeonsplatz	FindConnection	münchner freiheit'ten odeonsplatz'a nasıl gidebilirim
+from garching to hauptbahnhof	FindConnection	garching'den hauptbahnhof'a
+how can i get from garching to odeonsplatz	FindConnection	garching'den odeonsplatz'a nasıl gidebilirim
+start: neufahrn end:garching	FindConnection	başlangıç: neufahrn bitiş: garching
+how can i get from studentenstadt to garching	FindConnection	Studentenstadt'tan garching'e nasıl gidebilirim
+when is the next bus from garching	DepartureTime	garchingden bir sonraki otobüs ne zaman
+take me from hauptbahnhof to odeonsplatz	FindConnection	beni hauptbahnhof'tan odeonsplatz'a götür
